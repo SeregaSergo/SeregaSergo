@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khattu Sergey from Moscow!
-- 👀 I’m interested in self-driving cars, backend, IoT.
+- 👀 I’m interested in backend, self-driving cars, IoT.
 - 🌱 I’m currently learning Golang and web development.
 - 📫 How to reach me: khattu.s@mail.ru
 
