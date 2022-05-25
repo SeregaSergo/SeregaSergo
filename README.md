@@ -1,3 +1,11 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" width="100"/>
+</div>
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=SeregaSergo&style=flat-square&color=blue" alt=""/>
+</div>
+
 - 👋 Hi, I’m Khattu Sergey from Moscow!
 - 👀 I’m interested in backend, self-driving cars, IoT.
 - 🌱 I’m currently learning Golang and web development.
