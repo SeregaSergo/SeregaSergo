@@ -7,9 +7,8 @@
 </div>
 
 - 👋 Hi, I’m Khattu Sergey from Moscow!
-- 👀 I’m interested in backend, self-driving cars, IoT.
+- 👀 I’m interested in backend and self-driving cars.
 - 🌱 I’m currently learning Golang and web development.
-- 📫 How to reach me: khattu.s@mail.ru
 
 :hammer_and_wrench: Languages and Tools :
 <div>
